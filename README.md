@@ -36,5 +36,6 @@
 <li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
-
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+Nosso trabalho fez o uso do site Deepmotion, que visa recriar a fisionomia e movimentação corporal de videos e fotos já existentes, em animações 3D, recurso muito utilizado nas mídias sociais atualmente. Para isso testamos a aplicação em dois vídeos diferentes, um sendo uma pessoa dançando, e o outro vídeo sendo de uma pessoa praticando luta marcial. A criação das animações se procedeu de forma simples, precisamos criar uma conta no site, e subir o vídeo desejado na plataforma, que já desempenhará seu papel com maestria. Nos dois vídeos realizados conseguimos perceber como a plataforma funciona em diferentes tipos de movimentação.
